@@ -14,20 +14,6 @@ const projects = [
 		}
 	},
 	{
-		name: 'Scheduler',
-		description: [
-			`React based project to create meetings for students to connect with mentors in real-time.
-
-      Tech Stack: React, Classnames, Storybook, Babel, WebSockets, Axios, Webpack Dev Server, Jest, Testing Library, Cypress, prop-types.`
-		],
-		url: 'https://quizzical-heyrovsky-2b1ec0.netlify.app/',
-		repo: 'https://github.com/Marwa7246/scheduler',
-		thumbnail: {
-			image: 'assets/images/scheuler_home.png',
-			alt: 'Scheduler'
-		}
-	},
-	{
 		name: 'Jungle',
 		description: [
 			`A mini e-commerce application built with Rails 4.2.
@@ -41,7 +27,33 @@ const projects = [
 			image: 'assets/images/jungle.png',
 			alt: 'Jungle'
 		}
-	}
+  },
+  {
+		name: 'Scheduler',
+		description: [
+			`React based project to create meetings for students to connect with mentors in real-time.
+
+      Tech Stack: React, Classnames, Storybook, Babel, WebSockets, Axios, Webpack Dev Server, Jest, Testing Library, Cypress, prop-types.`
+		],
+		url: 'https://quizzical-heyrovsky-2b1ec0.netlify.app/',
+		repo: 'https://github.com/Marwa7246/scheduler',
+		thumbnail: {
+			image: 'assets/images/scheuler_home.png',
+			alt: 'Scheduler'
+		}
+  },
+  {
+		name: 'Tweeter',
+		description: [
+			`Tweeter is a simple, single-page Twitter clone, build using HTML, CSS, JS, jQuery and AJAX in the front-end, and Node, Express and MongoDB in the back-end.`
+		],
+		url: '',
+		repo: 'https://github.com/Marwa7246/tweeter',
+		thumbnail: {
+			image: 'assets/images/tweeter.png',
+			alt: 'tweeter'
+		}
+	},
 ];
 
 const socials = [
