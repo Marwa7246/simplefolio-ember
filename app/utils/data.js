@@ -57,10 +57,10 @@ const projects = [
 ];
 
 const socials = [
-	{
-		name: 'codepen',
-		url: 'mailto:marwa.ragheb@gmail.com'
-	},
+	// {
+	// 	name: 'camera-retro',
+	// 	url: 'mailto:marwa.ragheb@gmail.com'
+	// },
 	{
 		name: 'linkedin',
 		url: 'https://www.linkedin.com/in/marwa-ragheb'
