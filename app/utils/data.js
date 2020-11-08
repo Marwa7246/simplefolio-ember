@@ -2,69 +2,60 @@ const projects = [
 	{
 		name: 'COVID Dashboard',
 		description: [
-			`Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-			Excepturi neque, ipsa animi maiores repellendus distinctio
-			aperiam earum dolor voluptatum consequatur blanditiis
-			inventore debitis fuga numquam voluptate ex architecto
-			itaque molestiae.`
+			`COVID Dashboard is a full stack responsive web application built with ReactJS as the front-end and ruby-on-rails as the back-end. The dashboard lets you view COVID-19 statistics and the related news for different countries across the world.
+
+      Tech Stack: NodeJs, ReactJs, Ruby-on-Rails, Postgresql, Axios, HTML, SASS, Bootstrap.`
 		],
 		url: '#!',
-		repo: '#!',
+		repo: 'https://github.com/Marwa7246/covid-dashboard',
 		thumbnail: {
-			image: 'assets/images/banner.png',
-			alt: 'project banner'
+			image: 'assets/images/01_Dashboard.png',
+			alt: 'COVID Dashboard'
 		}
 	},
 	{
 		name: 'Scheduler',
 		description: [
-			`Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-			Excepturi neque, ipsa animi maiores repellendus distinctio
-			aperiam earum dolor voluptatum consequatur blanditiis
-			inventore debitis fuga numquam voluptate ex architecto
-			itaque molestiae.`
+			`React based project to create meetings for students to connect with mentors in real-time.
+
+      Tech Stack: React, Classnames, Storybook, Babel, WebSockets, Axios, Webpack Dev Server, Jest, Testing Library, Cypress, prop-types.`
 		],
-		url: '#!',
-		repo: '#!',
+		url: 'https://quizzical-heyrovsky-2b1ec0.netlify.app/',
+		repo: 'https://github.com/Marwa7246/scheduler',
 		thumbnail: {
-			image: 'assets/images/asia.png',
-			alt: 'project banner'
+			image: 'assets/images/scheuler_home.png',
+			alt: 'Scheduler'
 		}
 	},
 	{
-		name: 'Project Title',
+		name: 'Jungle',
 		description: [
-			`Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-			Excepturi neque, ipsa animi maiores repellendus distinctio
-			aperiam earum dolor voluptatum consequatur blanditiis
-			inventore debitis fuga numquam voluptate ex architecto
-			itaque molestiae.`
+			`A mini e-commerce application built with Rails 4.2.
+
+      The app sends a welcome email to the user upon signing-up. Also it sends an order receipt upon completing an order. The app is tested using rspec and capybara.
+      Tech Stack: Ruby on rails, CSS, HTML, Rspec and Capybara `
 		],
 		url: '#!',
-		repo: '#!',
+		repo: 'https://github.com/Marwa7246/jungle-rails',
 		thumbnail: {
-			image: 'assets/images/banner.png',
-			alt: 'project banner'
+			image: 'assets/images/jungle.png',
+			alt: 'Jungle'
 		}
 	}
 ];
 
 const socials = [
 	{
-		name: 'twitter',
-		url: '#!'
-	},
-	{
 		name: 'codepen',
-		url: '#!'
+		url: 'mailto:marwa.ragheb@gmail.com'
 	},
 	{
 		name: 'linkedin',
-		url: '#!'
+		url: 'https://www.linkedin.com/in/marwa-ragheb'
 	},
 	{
 		name: 'github',
-		url: '#!'
+		url: 'https://github.com/Marwa7246'
 	}
 ];
 
