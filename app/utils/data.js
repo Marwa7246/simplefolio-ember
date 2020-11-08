@@ -1,6 +1,6 @@
 const projects = [
 	{
-		name: 'Project Title',
+		name: 'COVID Dashboard',
 		description: [
 			`Lorem ipsum dolor sit, amet consectetur adipisicing elit.
 			Excepturi neque, ipsa animi maiores repellendus distinctio
@@ -16,7 +16,7 @@ const projects = [
 		}
 	},
 	{
-		name: 'Project Title',
+		name: 'Scheduler',
 		description: [
 			`Lorem ipsum dolor sit, amet consectetur adipisicing elit.
 			Excepturi neque, ipsa animi maiores repellendus distinctio
@@ -27,7 +27,7 @@ const projects = [
 		url: '#!',
 		repo: '#!',
 		thumbnail: {
-			image: 'assets/images/banner.png',
+			image: 'assets/images/asia.png',
 			alt: 'project banner'
 		}
 	},
